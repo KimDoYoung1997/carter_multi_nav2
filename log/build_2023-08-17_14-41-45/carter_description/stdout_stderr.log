@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/carter.urdf
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/caster_wheel.obj
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/chassis.obj
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/pivot.obj
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/side_wheel.obj
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/ament_index/resource_index/package_run_dependencies/carter_description
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/ament_index/resource_index/parent_prefix_path/carter_description
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/path.sh
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/path.dsv
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.bash
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.sh
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.zsh
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.dsv
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/package.dsv
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/ament_index/resource_index/packages/carter_description
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/cmake/carter_descriptionConfig.cmake
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/cmake/carter_descriptionConfig-version.cmake
+-- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/package.xml

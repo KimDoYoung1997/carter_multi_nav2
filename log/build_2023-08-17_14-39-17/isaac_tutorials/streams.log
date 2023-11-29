@@ -1,0 +1,52 @@
+[0.134s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/src/isaac_tutorials -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials
+[0.166s] -- The C compiler identification is GNU 9.4.0
+[0.194s] -- The CXX compiler identification is GNU 9.4.0
+[0.196s] -- Check for working C compiler: /usr/bin/cc
+[0.235s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.235s] -- Detecting C compiler ABI info
+[0.273s] -- Detecting C compiler ABI info - done
+[0.281s] -- Detecting C compile features
+[0.282s] -- Detecting C compile features - done
+[0.284s] -- Check for working CXX compiler: /usr/bin/c++
+[0.327s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.327s] -- Detecting CXX compiler ABI info
+[0.372s] -- Detecting CXX compiler ABI info - done
+[0.381s] -- Detecting CXX compile features
+[0.381s] -- Detecting CXX compile features - done
+[0.382s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.396s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.396s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.481s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.495s] -- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+[0.526s] -- Configuring done
+[0.527s] -- Generating done
+[0.527s] -- Build files have been written to: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials
+[0.529s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/src/isaac_tutorials -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials
+[0.530s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --build /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials -- -j24 -l24
+[0.552s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --build /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials -- -j24 -l24
+[0.565s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --install /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials
+[0.571s] -- Install configuration: ""
+[0.571s] -- Execute custom install script
+[0.571s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/camera_lidar.rviz
+[0.576s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/camera_manual.rviz
+[0.581s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/carter_stereo.rviz
+[0.585s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/rtx_lidar.rviz
+[0.590s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/turtle_stereo.rviz
+[0.595s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/scripts/ros2_publisher.py
+[0.602s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/lib/isaac_tutorials/ros2_publisher.py
+[0.607s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/ament_index/resource_index/package_run_dependencies/isaac_tutorials
+[0.613s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/ament_index/resource_index/parent_prefix_path/isaac_tutorials
+[0.617s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/ament_prefix_path.sh
+[0.621s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/ament_prefix_path.dsv
+[0.625s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/path.sh
+[0.630s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/path.dsv
+[0.636s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.bash
+[0.641s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.sh
+[0.645s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.zsh
+[0.649s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.dsv
+[0.654s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/package.dsv
+[0.658s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/ament_index/resource_index/packages/isaac_tutorials
+[0.663s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/cmake/isaac_tutorialsConfig.cmake
+[0.668s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/cmake/isaac_tutorialsConfig-version.cmake
+[0.672s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/package.xml
+[0.679s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --install /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials

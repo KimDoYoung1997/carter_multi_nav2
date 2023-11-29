@@ -1,0 +1,1 @@
+/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials/ament_cmake_environment_hooks/local_setup.sh

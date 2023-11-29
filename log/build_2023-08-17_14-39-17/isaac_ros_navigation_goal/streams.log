@@ -1,0 +1,31 @@
+[0.387s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros_navigation_goal': PYTHONPATH=/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros_navigation_goal/prefix_override:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros_navigation_goal/build --no-deps install_data
+[0.498s] running develop
+[0.565s] running egg_info
+[0.566s] creating isaac_ros_navigation_goal.egg-info
+[0.566s] writing isaac_ros_navigation_goal.egg-info/PKG-INFO
+[0.566s] writing dependency_links to isaac_ros_navigation_goal.egg-info/dependency_links.txt
+[0.566s] writing entry points to isaac_ros_navigation_goal.egg-info/entry_points.txt
+[0.566s] writing requirements to isaac_ros_navigation_goal.egg-info/requires.txt
+[0.566s] writing top-level names to isaac_ros_navigation_goal.egg-info/top_level.txt
+[0.567s] writing manifest file 'isaac_ros_navigation_goal.egg-info/SOURCES.txt'
+[0.581s] reading manifest file 'isaac_ros_navigation_goal.egg-info/SOURCES.txt'
+[0.582s] writing manifest file 'isaac_ros_navigation_goal.egg-info/SOURCES.txt'
+[0.597s] running build_ext
+[0.597s] Creating /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/lib/python3.8/site-packages/site.py
+[0.600s] Creating /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/lib/python3.8/site-packages/isaac-ros-navigation-goal.egg-link (link to .)
+[0.600s] Installing SetNavigationGoal script to /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/lib/isaac_ros_navigation_goal
+[0.600s] 
+[0.600s] Installed /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros_navigation_goal
+[0.600s] running install_data
+[0.600s] creating /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/ament_index
+[0.601s] creating /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/ament_index/resource_index
+[0.601s] creating /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/ament_index/resource_index/packages
+[0.601s] copying resource/isaac_ros_navigation_goal -> /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/ament_index/resource_index/packages
+[0.601s] copying package.xml -> /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal
+[0.601s] creating /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/launch
+[0.601s] copying launch/isaac_ros_navigation_goal.launch.py -> /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/launch
+[0.601s] creating /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[0.601s] copying assets/carter_warehouse_navigation.png -> /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[0.601s] copying assets/goals.txt -> /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[0.601s] copying assets/carter_warehouse_navigation.yaml -> /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[0.618s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros_navigation_goal' returned '0': PYTHONPATH=/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros_navigation_goal/prefix_override:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros_navigation_goal/build --no-deps install_data

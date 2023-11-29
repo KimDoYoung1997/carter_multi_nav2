@@ -1,0 +1,26 @@
+[0.029s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --build /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description -- -j24 -l24
+[0.153s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --build /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description -- -j24 -l24
+[0.170s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --install /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description
+[0.178s] -- Install configuration: ""
+[0.178s] -- Execute custom install script
+[0.179s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/carter.urdf
+[0.179s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/caster_wheel.obj
+[0.179s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/chassis.obj
+[0.179s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/pivot.obj
+[0.179s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/urdf/meshes/side_wheel.obj
+[0.180s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/ament_index/resource_index/package_run_dependencies/carter_description
+[0.180s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/ament_index/resource_index/parent_prefix_path/carter_description
+[0.180s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/ament_prefix_path.sh
+[0.180s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/ament_prefix_path.dsv
+[0.180s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/path.sh
+[0.181s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/environment/path.dsv
+[0.181s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.bash
+[0.181s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.sh
+[0.181s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.zsh
+[0.182s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/local_setup.dsv
+[0.182s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/package.dsv
+[0.187s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/ament_index/resource_index/packages/carter_description
+[0.187s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/cmake/carter_descriptionConfig.cmake
+[0.187s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/cmake/carter_descriptionConfig-version.cmake
+[0.187s] -- Up-to-date symlink: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_description/share/carter_description/package.xml
+[0.192s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal /usr/bin/cmake --install /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_description

@@ -1,0 +1,46 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_tutorials
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/camera_lidar.rviz
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/camera_manual.rviz
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/carter_stereo.rviz
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/rtx_lidar.rviz
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/rviz2/turtle_stereo.rviz
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/scripts/ros2_publisher.py
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/lib/isaac_tutorials/ros2_publisher.py
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/ament_index/resource_index/package_run_dependencies/isaac_tutorials
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/ament_index/resource_index/parent_prefix_path/isaac_tutorials
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/ament_prefix_path.sh
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/ament_prefix_path.dsv
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/path.sh
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/environment/path.dsv
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.bash
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.sh
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.zsh
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/local_setup.dsv
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/package.dsv
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/ament_index/resource_index/packages/isaac_tutorials
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/cmake/isaac_tutorialsConfig.cmake
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/cmake/isaac_tutorialsConfig-version.cmake
+-- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_tutorials/share/isaac_tutorials/package.xml

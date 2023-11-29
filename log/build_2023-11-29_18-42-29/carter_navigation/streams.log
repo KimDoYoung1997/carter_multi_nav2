@@ -1,0 +1,71 @@
+[0.023s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal:/opt/ros/foxy /usr/bin/cmake /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/src/navigation/carter_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation
+[0.140s] -- The C compiler identification is GNU 9.4.0
+[0.140s] -- The CXX compiler identification is GNU 9.4.0
+[0.140s] -- Check for working C compiler: /usr/bin/cc
+[0.140s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.140s] -- Detecting C compiler ABI info
+[0.170s] -- Detecting C compiler ABI info - done
+[0.177s] -- Detecting C compile features
+[0.178s] -- Detecting C compile features - done
+[0.179s] -- Check for working CXX compiler: /usr/bin/c++
+[0.216s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.216s] -- Detecting CXX compiler ABI info
+[0.253s] -- Detecting CXX compiler ABI info - done
+[0.259s] -- Detecting CXX compile features
+[0.259s] -- Detecting CXX compile features - done
+[0.261s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.275s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.275s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.365s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.410s] -- Configuring done
+[0.411s] -- Generating done
+[0.411s] -- Build files have been written to: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation
+[0.413s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal:/opt/ros/foxy /usr/bin/cmake /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/src/navigation/carter_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation
+[0.415s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal:/opt/ros/foxy /usr/bin/cmake --build /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation -- -j24 -l24
+[0.433s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal:/opt/ros/foxy /usr/bin/cmake --build /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation -- -j24 -l24
+[0.446s] Invoking command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal:/opt/ros/foxy /usr/bin/cmake --install /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation
+[0.450s] -- Install configuration: ""
+[0.451s] -- Execute custom install script
+[0.451s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/.vscode/settings.json
+[0.455s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/carter_navigation.launch.py
+[0.459s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/carter_navigation_individual.launch.py
+[0.462s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/multiple_robot_carter_navigation_hospital.launch.py
+[0.466s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/multiple_robot_carter_navigation_office.launch.py
+[0.470s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/nav2_origin/bringup_launch.py
+[0.473s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/nav2_origin/localization_launch.py
+[0.477s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/nav2_origin/navigation_launch.py
+[0.481s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/origin/carter_navigation.launch (copy).py
+[0.485s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/origin/carter_navigation_individual.launch (copy).py
+[0.489s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/launch/origin/multiple_robot_carter_navigation_hospital.launch (copy).py
+[0.493s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/carter_navigation_params (copy).yaml
+[0.497s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/carter_navigation_params.yaml
+[0.500s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/hospital/multi_robot_carter_navigation_params_1.yaml
+[0.504s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/hospital/multi_robot_carter_navigation_params_2.yaml
+[0.507s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/hospital/multi_robot_carter_navigation_params_3.yaml
+[0.511s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/office/multi_robot_carter_navigation_params_1.yaml
+[0.515s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/office/multi_robot_carter_navigation_params_2.yaml
+[0.519s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/params/office/multi_robot_carter_navigation_params_3.yaml
+[0.523s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/maps/carter_hospital_navigation.png
+[0.526s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/maps/carter_hospital_navigation.yaml
+[0.530s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/maps/carter_office_navigation.png
+[0.534s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/maps/carter_office_navigation.yaml
+[0.538s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/maps/carter_warehouse_navigation.png
+[0.542s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/maps/carter_warehouse_navigation.yaml
+[0.546s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/rviz2/carter_navigation.rviz
+[0.550s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/rviz2/carter_navigation_namespaced.rviz
+[0.554s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/ament_index/resource_index/package_run_dependencies/carter_navigation
+[0.558s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/ament_index/resource_index/parent_prefix_path/carter_navigation
+[0.562s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/environment/ament_prefix_path.sh
+[0.566s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/environment/ament_prefix_path.dsv
+[0.570s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/environment/path.sh
+[0.574s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/environment/path.dsv
+[0.578s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/local_setup.bash
+[0.583s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/local_setup.sh
+[0.587s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/local_setup.zsh
+[0.591s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/local_setup.dsv
+[0.596s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/package.dsv
+[0.600s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/ament_index/resource_index/packages/carter_navigation
+[0.604s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/cmake/carter_navigationConfig.cmake
+[0.607s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/cmake/carter_navigationConfig-version.cmake
+[0.611s] -- Symlinking: /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/carter_navigation/share/carter_navigation/package.xml
+[0.618s] Invoked command in '/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/install/isaac_ros_navigation_goal:/opt/ros/foxy /usr/bin/cmake --install /home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/carter_navigation

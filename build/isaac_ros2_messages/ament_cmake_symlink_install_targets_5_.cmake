@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/keti/.local/share/ov/pkg/isaac_sim-2022.2.1/ros2_workspace/build/isaac_ros2_messages/rosidl_generator_py/isaac_ros2_messages/libisaac_ros2_messages__python.so" "TARGETS" "isaac_ros2_messages__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")
